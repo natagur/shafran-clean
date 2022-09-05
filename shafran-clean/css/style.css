@@ -390,6 +390,16 @@ header{
 .map-block.mobile{
   display: none;
 }
+.seo-text{
+  margin-bottom: 60px;
+}
+.seo-text p{
+  margin-bottom: 20px;
+}
+.seo-text .title{
+  text-align: center;
+}
+
 
 @media(max-width: 960px) {
   .container{
